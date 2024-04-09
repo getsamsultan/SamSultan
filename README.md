@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @getsamsultan
-- 👀 I’m interested in Python and C++ 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me at askthesultans@gmail.com
 
 <!---
